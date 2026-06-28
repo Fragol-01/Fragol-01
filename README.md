@@ -1,49 +1,82 @@
 <div align="center">
 
-# 〜 Daniel Domínguez Fragoso
+# Daniel Domínguez Fragoso
 
-**Ingeniero de Telecomunicaciones**
+### Ingeniero Electrónico y de Telecomunicaciones
+
+*Del esquemático al firmware, y del firmware al producto.*
+
 `Sistemas embebidos` · `Infraestructura de IA` · `Desarrollo web`
 
-<!-- Cambia los textos/colores de los badges si quieres -->
-![ESP32](https://img.shields.io/badge/ESP32-FF9D4D?style=for-the-badge&logoColor=0a0e17&labelColor=0a0e17&color=FF9D4D)
-![Python](https://img.shields.io/badge/Python-3FE0CF?style=for-the-badge&labelColor=0a0e17&color=3FE0CF)
-![Docker](https://img.shields.io/badge/Docker-FF9D4D?style=for-the-badge&labelColor=0a0e17&color=FF9D4D)
-![Linux](https://img.shields.io/badge/Linux-3FE0CF?style=for-the-badge&labelColor=0a0e17&color=3FE0CF)
-![LLMs](https://img.shields.io/badge/LLMs-FF9D4D?style=for-the-badge&labelColor=0a0e17&color=FF9D4D)
+[![Portafolio](https://img.shields.io/badge/Portafolio-fragol--01.github.io-38A8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e17)](https://fragol-01.github.io)
+[![CV](https://img.shields.io/badge/Descargar_CV-PDF-FF9D4D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0a0e17)](https://github.com/fragol-01/fragol-01/raw/main/CV-Daniel-Dominguez.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Domínguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17)](https://www.linkedin.com/in/daniel-dom%C3%ADnguez-fragoso-4093293a4/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17)](mailto:dominguez.fragoso.001@gmail.com)
 
 </div>
 
 ---
 
-## 🇪🇸 Sobre mí
+## 🧭 Sobre mí
 
-Ingeniero de telecomunicaciones que trabaja en la intersección de **sistemas embebidos**, **infraestructura de IA** y **desarrollo web**. Me gusta llevar una idea desde el hardware hasta el producto final: diseñar la interfaz de un equipo, desplegar un modelo en hardware limitado o montar la infraestructura que sostiene un servicio.
+Ingeniero electrónico y de telecomunicaciones trabajando en la intersección de **sistemas embebidos**, **infraestructura de IA** y **desarrollo web**. Me gusta llevar una idea desde el hardware hasta el producto final: diseñar la interfaz de un equipo médico, desplegar un modelo en hardware limitado o montar la infraestructura que sostiene un servicio.
 
-- 🔧 **Embedded:** ESP32, LVGL, C/C++, pantallas táctiles, sensores
-- 🤖 **IA + datos:** LLMs locales, Ollama, agentes, automatización en Python
-- 🌐 **Web + infra:** Docker, Nginx, VPS, SSL, gestión de dominios
-- 📍 Abierto a proyectos y colaboraciones
+```text
+📍 La Habana, Cuba          🏢 CEADEN
+🎓 Ing. Telecom — CUJAE     💬 Español · English
+```
 
-## 🇬🇧 About me
+- 🔧 **Embedded** — ESP32, STM32, LVGL, C/C++, pantallas táctiles, sensores
+- 🤖 **IA + datos** — LLMs locales, Ollama, agentes, automatización en Python
+- 🌐 **Web + infra** — React, Docker, Nginx, VPS, SSL, gestión de dominios
 
-Telecommunications engineer working at the intersection of **embedded systems**, **AI infrastructure** and **web development**. I like taking an idea from the hardware all the way to the finished product: designing a device's interface, deploying a model on constrained hardware, or building the infrastructure behind a service.
+<details>
+<summary>🇬🇧 <b>About me (English)</b></summary>
 
-- 🔧 **Embedded:** ESP32, LVGL, C/C++, touchscreens, sensors
-- 🤖 **AI + data:** local LLMs, Ollama, agents, Python automation
-- 🌐 **Web + infra:** Docker, Nginx, VPS, SSL, domain management
-- 📍 Open to projects and collaborations
+<br>
+
+Electronic and telecommunications engineer working at the intersection of **embedded systems**, **AI infrastructure** and **web development**. I take an idea from hardware all the way to the finished product: designing a medical device's interface, deploying a model on constrained hardware, or building the infrastructure behind a service.
+
+- 🔧 **Embedded** — ESP32, STM32, LVGL, C/C++, touchscreens, sensors
+- 🤖 **AI + data** — local LLMs, Ollama, agents, Python automation
+- 🌐 **Web + infra** — React, Docker, Nginx, VPS, SSL, domain management
+
+</details>
 
 ---
 
-## 🚀 Proyectos · Projects
+## 🛠️ Stack
 
-| | |
-|---|---|
-| **HandBeam 10D — Interfaz médica embebida** <br> UI para equipo médico láser sobre ESP32 con táctil capacitivo (5 pantallas) + app móvil por WiFi. <br> `ESP32` `LVGL` `C/C++` `Flutter` | **Agentes de IA self-hosted** <br> LLMs locales y agentes autónomos sobre hardware limitado (CPU), integrados por Telegram. <br> `LLMs` `Ollama` `Python` `Docker` |
-| **Automatización de documentos** <br> Generación programática de guías y PDFs interactivos con marcadores y diagramas SVG. <br> `Python` `WeasyPrint` `Data` | **Web y hosting gestionado** <br> Infraestructura web de extremo a extremo: VPS, Docker, SSL y dominios. Llave en mano. <br> `Docker` `Nginx` `VPS` `SSL` |
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
-> 🌐 **Portafolio completo:** [https://fragol-01.github.io](https://fragol-01.github.io)
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[HandBeam 10D](https://github.com/fragol-01/handbeam-10d)** | Interfaz médica embebida: equipo láser LLLT sobre ESP32 con táctil capacitivo (5 pantallas) + app móvil por WiFi. | `ESP32` `LVGL` `C/C++` |
+| **[Tesis · STM32L432KC](https://github.com/fragol-01/thesis-stm32l432kc)** | Firmware STM32 con transmisión de datos por SPI (doble 16 bits). | `STM32` `C` `SPI` |
+| **[Tienda online](https://github.com/fragol-01/online-store)** | Tienda en línea desarrollada en TypeScript. | `TypeScript` `Web` |
+| **Agentes de IA self-hosted** | LLMs locales y agentes autónomos sobre hardware limitado, integrados por Telegram. | `LLMs` `Ollama` `Python` |
+
+> 🌐 **Portafolio completo:** [fragol-01.github.io](https://fragol-01.github.io)
+
+---
+
+## 🏅 Reconocimientos · Recognition
+
+> 🇪🇸 **Nominado** al Taller de Instrumentación Nuclear del **OIEA (IAEA)** — Seibersdorf, Austria · 2026
+> <br> 🇬🇧 **Nominee** — IAEA Nuclear Instrumentation Workshop — Seibersdorf, Austria · 2026
 
 ---
 
@@ -51,23 +84,15 @@ Telecommunications engineer working at the intersection of **embedded systems**,
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=FF9D4D&icon_color=3FE0CF&text_color=8c98ae)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=FF9D4D&text_color=8c98ae)
+![Stats](https://github-readme-stats.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=38A8FF&icon_color=3FE0CF&text_color=8c98ae)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=38A8FF&text_color=8c98ae)
 
 </div>
 
 ---
 
-## 🏅 Reconocimientos · Recognition
+<div align="center">
 
-🇪🇸 **Nominado** al Taller de Instrumentación Nuclear del **OIEA (IAEA)** — Seibersdorf, Austria · 2026
-🇬🇧 **Nominee** — IAEA Nuclear Instrumentation Workshop — Seibersdorf, Austria · 2026
+**¿Construimos algo?** — [Hablemos ✉️](mailto:dominguez.fragoso.001@gmail.com)
 
----
-
-## 📫 Contacto · Contact
-
-[![Email](https://img.shields.io/badge/Email-FF9D4D?style=for-the-badge&logo=gmail&logoColor=0a0e17&labelColor=0a0e17&color=FF9D4D)](mailto:dominguez.fragoso.001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3FE0CF?style=for-the-badge&logo=linkedin&logoColor=0a0e17&labelColor=0a0e17&color=3FE0CF)](https://www.linkedin.com/in/daniel-dom%C3%ADnguez-fragoso-4093293a4/)
-[![Web](https://img.shields.io/badge/Portafolio-FF9D4D?style=for-the-badge&logo=githubpages&logoColor=0a0e17&labelColor=0a0e17&color=FF9D4D)](https://fragol-01.github.io)
-
+</div>

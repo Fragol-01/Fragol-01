@@ -91,8 +91,6 @@ Electronic and telecommunications engineer working at the intersection of **embe
 
 ---
 
----
-
 <div align="center">
 
 ### ¿Tienes una idea en mente? ¡Hablemos! 🚀

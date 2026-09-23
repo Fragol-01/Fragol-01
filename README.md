@@ -8,7 +8,7 @@
 
 `Sistemas embebidos` · `Infraestructura de IA` · `Desarrollo web`
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-danieldominguez.is-a.dev-38A8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e17)](https://danieldominguez.is-a.dev)
+[![Portafolio](https://img.shields.io/badge/Portafolio-danieldominguez.is--a.dev-38A8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e17)](https://danieldominguez.is-a.dev)
 [![CV](https://img.shields.io/badge/Descargar_CV-PDF-FF9D4D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0a0e17)](https://github.com/fragol-01/fragol-01/raw/main/CV-Daniel-Dominguez.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Domínguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17)](https://www.linkedin.com/in/daniel-dom%C3%ADnguez-fragoso-4093293a4/)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17)](mailto:dominguez.fragoso.001@gmail.com)

@@ -75,8 +75,8 @@ Electronic and telecommunications engineer working at the intersection of **embe
 
 ## 🏅 Reconocimientos · Recognition
 
-> 🇪🇸 **Nominado** al Taller de Instrumentación Nuclear del **OIEA (IAEA)** — Seibersdorf, Austria · 2026
-> <br> 🇬🇧 **Nominee** — IAEA Nuclear Instrumentation Workshop — Seibersdorf, Austria · 2026
+> **[ES]** **Nominado** al Taller de Instrumentación Nuclear del **OIEA (IAEA)** — Seibersdorf, Austria · 2026
+> <br> **[EN]** **Nominee** — IAEA Nuclear Instrumentation Workshop — Seibersdorf, Austria · 2026
 
 ---
 
@@ -84,15 +84,29 @@ Electronic and telecommunications engineer working at the intersection of **embe
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=38A8FF&icon_color=3FE0CF&text_color=8c98ae&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=38A8FF&text_color=8c98ae&v=1)
+![Stats](https://github-stats-extended.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=38A8FF&icon_color=3FE0CF&text_color=8c98ae)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=38A8FF&text_color=8c98ae)
 
 </div>
 
 ---
 
+---
+
 <div align="center">
 
-**¿Construimos algo?** — [Hablemos ✉️](mailto:dominguez.fragoso.001@gmail.com)
+### ¿Tienes una idea en mente? ¡Hablemos! 🚀
+
+<p>
+  <a href="mailto:dominguez.fragoso.001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-domínguez.fragoso.001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-dom%C3%ADnguez-fragoso-4093293a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel_Domínguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://danieldominguez.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-danieldominguez.is--a.dev-38A8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio">
+  </a>
+</p>
 
 </div>

@@ -84,8 +84,8 @@ Electronic and telecommunications engineer working at the intersection of **embe
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=38A8FF&icon_color=3FE0CF&text_color=8c98ae)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=38A8FF&text_color=8c98ae)
+![Stats](https://github-readme-stats.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=38A8FF&icon_color=3FE0CF&text_color=8c98ae&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=38A8FF&text_color=8c98ae&v=1)
 
 </div>
 

@@ -84,8 +84,8 @@ Electronic and telecommunications engineer working at the intersection of **embe
 
 <div align="center">
 
-![Stats](https://github-stats-extended.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=38A8FF&icon_color=3FE0CF&text_color=8c98ae)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=38A8FF&text_color=8c98ae)
+![Stats](https://github-stats-extended-frontend-amber-six.vercel.app/api?username=Fragol-01&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=38A8FF&icon_color=3FE0CF&text_color=8c98ae)
+![Top Langs](https://github-stats-extended-frontend-amber-six.vercel.app/api/top-langs/?username=Fragol-01&layout=compact&hide_border=true&bg_color=0a0e17&title_color=38A8FF&text_color=8c98ae&size_weight=0.5&count_weight=0.5&langs_count=8&hide=Makefile,Assembly,Tex,Linker%20Script,CMake,Shell,PowerShell&v=1)
 
 </div>
 
